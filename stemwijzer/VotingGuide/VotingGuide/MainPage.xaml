@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VotingGuide.MainPage"
+             NavigationPage.HasNavigationBar="false">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="15" CornerRadius="0">
+            <Grid>
+                <Image Source="poll.png" HorizontalOptions="StartAndExpand" VerticalOptions="Start" HeightRequest="70" WidthRequest="100"  Grid.Row="0"></Image>
+                <Label Padding="25,0,0,0" Text="Voting Guide" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="20"/>
+            </Grid>
+        </Frame>
+        <Frame HeightRequest="200" WidthRequest="300" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" BackgroundColor="White" BorderColor="#F0F0F0" Padding="5" Margin="0,50,0,5" HasShadow="True">
+            <Label TextColor="#343a40" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" Text="Sample introduction: This is a quiz to help you find what political party suits you the most based on your toughts in some common issues." FontSize="20"/>
+        </Frame>
+        <Frame HeightRequest="100" WidthRequest="300" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" BackgroundColor="#ffc107" BorderColor="#343a40" Padding="5" Margin="0,25,0,5" HasShadow="True">
+            <Label TextColor="#343a40" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" Text="Disclaimer: This quiz is 100% anonymous and does not store your answers or political affinities in any online database or such." FontSize="18" FontAttributes="Bold"/>
+        </Frame>
+        <Button Clicked="Button_Clicked" BackgroundColor="#28a745" TextColor="#f8f9fa" Text="Start" HorizontalOptions="End" VerticalOptions="Center" Margin="0,25,50,0"/>
+    </StackLayout>
+
+</ContentPage>

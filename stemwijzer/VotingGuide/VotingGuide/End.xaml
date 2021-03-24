@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VotingGuide.End"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="15" CornerRadius="0">
+                <Grid>
+                    <Image Source="poll.png" HorizontalOptions="StartAndExpand" VerticalOptions="Start" HeightRequest="70" WidthRequest="100"  Grid.Row="0"/>
+                    <Label Padding="25,0,0,0" Text="Results" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="20"/>
+                </Grid>
+            </Frame>
+            <Frame HeightRequest="200" WidthRequest="300" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" BackgroundColor="White" BorderColor="#F0F0F0" Padding="5" Margin="0,50,0,5" HasShadow="True">
+                <Label x:Name="label" TextColor="#343a40" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" 
+                      Text="{Binding Party, StringFormat='The party that matches your opinions most closely is the {0}.'}"  FontSize="20">
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="White" WidthRequest="300" Padding="5" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                <Grid>
+                    <Button Grid.Row="0" FontAttributes="Bold" Clicked="btn_Clicked" ClassId="0"  x:Name="btnHome" Text="Home" TextColor="White" BackgroundColor="#6c757d" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" FontSize="14"/>
+                    <Button Grid.Row="1" FontAttributes="Bold" Clicked="btn_Clicked" ClassId="1"  x:Name="btnOver" Text="Start Over" TextColor="White" BackgroundColor="#6c757d" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" FontSize="14" />
+                </Grid>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
