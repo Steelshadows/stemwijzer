@@ -678,11 +678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itsam\\drives\\OneDrive - ROC Midden Nederland\\prjcts\\xamarin\\stemwijzer\\stemwijzer\\VotingGuide\\VotingGuide\\VotingGuide.csproj",
+      "projectUniqueName": "C:\\xamarin\\stemwijzer\\stemwijzer\\VotingGuide\\VotingGuide\\VotingGuide.csproj",
       "projectName": "VotingGuide",
-      "projectPath": "C:\\Users\\itsam\\drives\\OneDrive - ROC Midden Nederland\\prjcts\\xamarin\\stemwijzer\\stemwijzer\\VotingGuide\\VotingGuide\\VotingGuide.csproj",
+      "projectPath": "C:\\xamarin\\stemwijzer\\stemwijzer\\VotingGuide\\VotingGuide\\VotingGuide.csproj",
       "packagesPath": "C:\\Users\\itsam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itsam\\drives\\OneDrive - ROC Midden Nederland\\prjcts\\xamarin\\stemwijzer\\stemwijzer\\VotingGuide\\VotingGuide\\obj\\",
+      "outputPath": "C:\\xamarin\\stemwijzer\\stemwijzer\\VotingGuide\\VotingGuide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -18,7 +18,7 @@ namespace VotingGuide
         ///<summary>
         ///how do you access your php endpoint (including port and /)
         ///</summary>
-        private const string address = "https://f997fc3c057a.ngrok.io/"; 
+        private const string address = "http://145.120.201.160/"; 
         private static string[] questions;
         private static string total;
         private static Party[] parties;

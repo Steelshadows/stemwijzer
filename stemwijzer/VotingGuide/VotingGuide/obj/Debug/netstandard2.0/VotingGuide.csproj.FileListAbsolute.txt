@@ -18,3 +18,36 @@ C:\Work\Naraty\VotingGuide\VotingGuide\VotingGuide\VotingGuide\bin\Debug\netstan
 C:\Work\Naraty\VotingGuide\VotingGuide\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.csproj.CopyComplete
 C:\Work\Naraty\VotingGuide\VotingGuide\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\End.xaml.g.cs
 C:\Work\Naraty\VotingGuide\VotingGuide\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.csprojAssemblyReference.cache
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\VotingGuide.deps.json
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\VotingGuide.dll
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\ref\VotingGuide.dll
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\VotingGuide.pdb
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\End.xaml.g.cs
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\Poll.xaml.g.cs
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.AssemblyInfoInputs.cache
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.AssemblyInfo.cs
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.dll
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\ref\VotingGuide.dll
+C:\Users\itsam\drives\OneDrive - ROC Midden Nederland\prjcts\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.pdb
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\VotingGuide.deps.json
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\VotingGuide.dll
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\ref\VotingGuide.dll
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\VotingGuide.pdb
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.csprojAssemblyReference.cache
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\End.xaml.g.cs
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\Poll.xaml.g.cs
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.AssemblyInfoInputs.cache
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.AssemblyInfo.cs
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.csproj.CopyComplete
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.dll
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\ref\VotingGuide.dll
+C:\xamarin\stemwijzer\stemwijzer\VotingGuide\VotingGuide\obj\Debug\netstandard2.0\VotingGuide.pdb

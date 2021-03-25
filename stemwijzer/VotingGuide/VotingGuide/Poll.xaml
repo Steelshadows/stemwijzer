@@ -7,11 +7,11 @@
         <StackLayout>
             <Frame BackgroundColor="#2196F3" Padding="15" CornerRadius="0">
                 <Grid>
-                    <Label x:Name="lblCount" Text="" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="20" Margin="0,25,0,0"/>
+                    <Label x:Name="lblCount" Text="" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="white" FontSize="20" Margin="0,25,0,0"/>
                 </Grid>
             </Frame>
-            <Frame HeightRequest="200" WidthRequest="300" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" BackgroundColor="White" BorderColor="#F0F0F0" Padding="5" Margin="0,50,0,5" HasShadow="True">
-                <Label x:Name="lblQuestion" Text="Loading..." HorizontalOptions="Center" VerticalOptions="Center" FontSize="24"/>
+            <Frame HeightRequest="200" WidthRequest="300" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" BackgroundColor="white" BorderColor="#F0F0F0" Padding="5" Margin="0,50,0,5" HasShadow="True">
+                <Label x:Name="lblQuestion" Text="Loading..." HorizontalOptions="Center" VerticalOptions="Center" TextColor="black" FontSize="24"/>
             </Frame>
             <Frame BackgroundColor="White" WidthRequest="300" Padding="5" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
                 <Grid>
